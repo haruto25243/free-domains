@@ -1,3 +1,4 @@
 # CONTRIBUTING.md
 
 Notes and usage details for free-domains.
+- clarify the setup steps
