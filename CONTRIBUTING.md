@@ -12,3 +12,4 @@ Notes and usage details for free-domains.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
