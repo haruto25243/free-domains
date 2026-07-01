@@ -26,3 +26,4 @@ Notes and usage details for free-domains.
 - link the usage section
 - link the usage section
 - link the usage section
+- add a note about the defaults
